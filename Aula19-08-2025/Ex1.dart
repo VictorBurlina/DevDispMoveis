@@ -13,7 +13,6 @@ void main() {
 class FlashcardApp extends StatelessWidget {
   const FlashcardApp({super.key});
 
-  // 🔧 Função para criar um card de verbo
   Widget flashcard({
     required String tempo,
     required String frase,
